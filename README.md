@@ -1,1 +1,1 @@
-"# GJN-intern-assignment" 
+# GJN Front End Developer Intern Assignment
